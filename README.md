@@ -9,8 +9,8 @@
 |------|------|------|------|
 | Stage 0 | 环境搭建 + 第一次 API 调用 | 🔵 入门 | ✅ 完成 |
 | Stage 1 | 基础 API 调用(角色/参数/流式/结构化输出) | 🔵 入门 | ✅ 完成 |
-| Stage 2 | 工具调用 Tool Use(function calling) | 🟢 初级 | ⏳ 待开始 |
-| Stage 3 | Agent 核心循环(ReAct)**里程碑** | 🟢 初级 | ⏳ 待开始 |
+| Stage 2 | 工具调用 Tool Use(function calling) | 🟢 初级 | ✅ 完成 |
+| Stage 3 | Agent 核心循环(ReAct)**里程碑** | 🟢 初级 | ✅ 完成 |
 | Stage 4 | 记忆 Memory | 🟡 中级 | ⏳ 待开始 |
 | Stage 5 | RAG 基础 **里程碑** | 🟡 中级 | ⏳ 待开始 |
 | Stage 6 | RAG 进阶(混合检索/重排/评估) | 🟡 中级 | ⏳ 待开始 |
