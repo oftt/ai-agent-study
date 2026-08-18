@@ -17,9 +17,14 @@
 
 import os
 from functools import lru_cache
+from pathlib import Path
 
 # 国内下载模型走镜像(必须在 import fastembed 之前设置)
 os.environ.setdefault("HF_ENDPOINT", "https://hf-mirror.com")
+# 模型缓存到项目内 lib/.models,避免系统临时目录被清理后反复下载
+os.environ.setdefault(
+    "FASTEMBED_CACHE_PATH", str(Path(__file__).resolve().parent / ".models")
+)
 
 import numpy as np  # noqa: E402
 from fastembed import TextEmbedding  # noqa: E402

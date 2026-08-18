@@ -10,7 +10,7 @@
 | Stage 2 | [stage02-工具调用](stage02-tool-use.md) | 工具调用 Tool Use | ✅ 完成 |
 | Stage 3 | [stage03-Agent核心循环](stage03-react-agent.md) | Agent 核心循环(ReAct) ⭐ | ✅ 完成 |
 | Stage 4 | [stage04-记忆](stage04-memory.md) | 记忆 Memory | ✅ 完成 |
-| Stage 5 | — | RAG 基础 | 待开始 |
+| Stage 5 | [stage05-RAG基础](stage05-rag.md) | RAG 基础 ⭐ | ✅ 完成 |
 | Stage 6 | — | RAG 进阶 | 待开始 |
 | Stage 7 | — | 复杂 Agent 与规划 | 待开始 |
 | Stage 8 | — | 多智能体 Multi-Agent | 待开始 |
