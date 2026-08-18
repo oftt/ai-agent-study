@@ -9,7 +9,7 @@
 | Stage 1 | [stage01-基础API调用](stage01-basic-api.md) | 角色/参数/流式/结构化输出 | ✅ 完成 |
 | Stage 2 | [stage02-工具调用](stage02-tool-use.md) | 工具调用 Tool Use | ✅ 完成 |
 | Stage 3 | [stage03-Agent核心循环](stage03-react-agent.md) | Agent 核心循环(ReAct) ⭐ | ✅ 完成 |
-| Stage 4 | — | 记忆 Memory | 待开始 |
+| Stage 4 | [stage04-记忆](stage04-memory.md) | 记忆 Memory | ✅ 完成 |
 | Stage 5 | — | RAG 基础 | 待开始 |
 | Stage 6 | — | RAG 进阶 | 待开始 |
 | Stage 7 | — | 复杂 Agent 与规划 | 待开始 |
