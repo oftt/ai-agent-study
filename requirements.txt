@@ -1,0 +1,4 @@
+# Stage 0 只需要这两个;
+# 后续阶段会逐步追加(向量库、文档解析等)
+openai>=1.30.0          # DeepSeek / OpenAI 兼容接口的官方 SDK
+python-dotenv>=1.0.0    # 读取 .env 中的密钥

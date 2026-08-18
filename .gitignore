@@ -1,0 +1,23 @@
+# 密钥文件 —— 永远不要提交到 git!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# 数据与缓存
+data/
+*.chroma/
+.chroma/
+*.sqlite3
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
+
+# 日志
+*.log
