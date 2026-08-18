@@ -11,7 +11,7 @@
 | Stage 3 | [stage03-Agent核心循环](stage03-react-agent.md) | Agent 核心循环(ReAct) ⭐ | ✅ 完成 |
 | Stage 4 | [stage04-记忆](stage04-memory.md) | 记忆 Memory | ✅ 完成 |
 | Stage 5 | [stage05-RAG基础](stage05-rag.md) | RAG 基础 ⭐ | ✅ 完成 |
-| Stage 6 | — | RAG 进阶 | 待开始 |
+| Stage 6 | [stage06-RAG进阶](stage06-rag-advanced.md) | RAG 进阶(混合检索/重排/评估) | ✅ 完成 |
 | Stage 7 | — | 复杂 Agent 与规划 | 待开始 |
 | Stage 8 | — | 多智能体 Multi-Agent | 待开始 |
 | Stage 9 | — | 工程化与部署 | 待开始 |
