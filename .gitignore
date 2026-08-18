@@ -1,4 +1,4 @@
-# 密钥文件 —— 永远不要提交到 git!
+# Secrets - NEVER commit
 .env
 
 # Python
@@ -8,17 +8,17 @@ __pycache__/
 .venv/
 *.egg-info/
 
-# 数据与缓存
+# Data & cache
 data/
 *.chroma/
 .chroma/
 *.sqlite3
-lib/.models/        # embedding 模型缓存(约 55MB,首次运行自动下载)
+lib/.models/
 
-# 编辑器
+# Editors / OS
 .idea/
 .vscode/
 .DS_Store
 
-# 日志
+# Logs
 *.log
