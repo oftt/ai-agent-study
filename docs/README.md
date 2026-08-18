@@ -13,7 +13,7 @@
 | Stage 5 | [stage05-RAG基础](stage05-rag.md) | RAG 基础 ⭐ | ✅ 完成 |
 | Stage 6 | [stage06-RAG进阶](stage06-rag-advanced.md) | RAG 进阶(混合检索/重排/评估) | ✅ 完成 |
 | Stage 7 | [stage07-规划与反思](stage07-planning.md) | 复杂 Agent 与规划(Plan-Execute/反思) | ✅ 完成 |
-| Stage 8 | — | 多智能体 Multi-Agent | 待开始 |
+| Stage 8 | [stage08-多智能体](stage08-multi-agent.md) | 多智能体 Multi-Agent | ✅ 完成 |
 | Stage 9 | — | 工程化与部署 | 待开始 |
 | Stage 10 | — | 完整 Agent 应用 | 待开始 |
 

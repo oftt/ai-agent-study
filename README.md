@@ -15,7 +15,7 @@
 | Stage 5 | RAG 基础 **里程碑** | 🟡 中级 | ✅ 完成 |
 | Stage 6 | RAG 进阶(混合检索/重排/评估) | 🟡 中级 | ✅ 完成 |
 | Stage 7 | 复杂 Agent 与规划(Plan-and-Execute) | 🟠 高级 | ✅ 完成 |
-| Stage 8 | 多智能体 Multi-Agent | 🟠 高级 | ⏳ 待开始 |
+| Stage 8 | 多智能体 Multi-Agent | 🟠 高级 | ✅ 完成 |
 | Stage 9 | 工程化与部署(FastAPI + Web 前端) | 🔴 完备 | ⏳ 待开始 |
 | Stage 10 | 完整 Agent 应用(毕业项目) | 🔴 完备 | ⏳ 待开始 |
 
