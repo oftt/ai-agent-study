@@ -22,3 +22,8 @@ lib/.models/
 
 # Logs
 *.log
+
+# Stage 9 运行时产物(可重新生成)
+usage.json
+_test_usage.json
+.pytest_cache/
