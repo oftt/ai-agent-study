@@ -17,7 +17,7 @@
 | Stage 7 | 复杂 Agent 与规划(Plan-and-Execute) | 🟠 高级 | ✅ 完成 |
 | Stage 8 | 多智能体 Multi-Agent | 🟠 高级 | ✅ 完成 |
 | Stage 9 | 工程化与部署(FastAPI + Web 前端) | 🔴 完备 | ✅ 完成 |
-| Stage 10 | 完整 Agent 应用(毕业项目) | 🔴 完备 | ⏳ 待开始 |
+| Stage 10 | 完整 Agent 应用(毕业项目) | 🔴 完备 | ✅ 完成 |
 
 ## 📁 目录结构
 

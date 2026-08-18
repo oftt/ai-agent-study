@@ -15,7 +15,7 @@
 | Stage 7 | [stage07-规划与反思](stage07-planning.md) | 复杂 Agent 与规划(Plan-Execute/反思) | ✅ 完成 |
 | Stage 8 | [stage08-多智能体](stage08-multi-agent.md) | 多智能体 Multi-Agent | ✅ 完成 |
 | Stage 9 | [stage09-工程化与部署](stage09-deploy.md) | 工程化与部署(FastAPI + 前端) | ✅ 完成 |
-| Stage 10 | — | 完整 Agent 应用 | 待开始 |
+| Stage 10 | [stage10-毕业项目](stage10-final.md) | 完整 Agent 应用 🎓 | ✅ 完成 |
 
 ## 📋 每篇文档的固定结构
 
